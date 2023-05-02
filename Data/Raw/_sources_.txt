@@ -1,0 +1,3 @@
+Boston22ArrestData.csv is From:   https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/313e56df-6d77-49d2-9c49-ee411f10cf58
+Boston_Landmarks_Commission_(BLC)_Landmarks.zip is From:    https://bostonopendata-boston.opendata.arcgis.com/datasets/7a7aca614ad740e99b060e0ee787a228/explore?location=42.332898%2C-71.092508%2C13.54
+BostonPop is From:   https://wetransfer.com/downloads/f0918debb741ab1acfa200a611bb802020230329192802/91abe2760717690689cd1c59befa415b20230329192837/90a50c
